@@ -30,6 +30,8 @@ public class BoardController {
         return "board/form";
     }
 
+    //@GetMapping("/view")
+
 
 }
 
